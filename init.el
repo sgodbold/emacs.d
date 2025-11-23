@@ -85,6 +85,7 @@
 (require 'init-evil)
 
 (require 'init-projectile)
+(require 'init-neotree)
 
 (require 'init-dape)
 (require 'init-markdown)
