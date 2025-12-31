@@ -100,6 +100,7 @@
 (require 'init-python)
 (require 'init-sql)
 (require 'init-rust)
+(require 'init-jsonnet)
 (require 'init-toml)
 (require 'init-yaml)
 (require 'init-docker)
